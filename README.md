@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Gabriel
+Hi, My name is Gabriel
 ===============================================================================================================================
 
 Technology & Science Enthusiast | telecom enginner | Self-Taught Developer
@@ -9,12 +9,6 @@ Hello! I’m deeply passionate about leveraging technology and scientific princi
 * 🌍  I'm based in Mexico
 * ✉️  You can contact me at [armandogabrieljl@gmail.com](mailto:armandogabrieljl@gmail.com)
 * 🧠  I'm learning web page development
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabZzL/GabZzL/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GabZzL/GabZzL/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/GabZzL/GabZzL/output/github-snake.svg" />
-</picture>
 
 ### Skills
 
